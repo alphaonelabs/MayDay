@@ -1,0 +1,6 @@
+/Users/jshultz/Documents/workspace/PanicButton/app/build/intermediates/classes/debug
+/Users/jshultz/Documents/workspace/PanicButton/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-901cc8229b94f351cf2d24f722308a3f242c57cc.jar
+/Users/jshultz/Documents/workspace/PanicButton/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4aeb914611c098d429ecc736e255ecfce8be64b9.jar
+/Users/jshultz/Documents/workspace/PanicButton/app/build/intermediates/pre-dexed/debug/gson-2.3.1-ed8aac479076ea76749eceee4ee8a62b2a67a085.jar
+/Users/jshultz/Documents/workspace/PanicButton/app/build/intermediates/pre-dexed/debug/crashlytics-d4ae7144a88d14275c0ca7c27294dcf8c3a1c6ce.jar
+/Users/jshultz/Documents/workspace/PanicButton/app/build/intermediates/pre-dexed/debug/classes-fcb28bfdf63c55d70dc2f2cf5cfc1e223a613c0c.jar

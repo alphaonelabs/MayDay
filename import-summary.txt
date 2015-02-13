@@ -1,0 +1,114 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/scopes/
+* .idea/scopes/scope_settings.xml
+* .idea/workspace.xml
+* LICENSE.md
+* README.md
+* build.xml
+* classes/
+* classes/res-cache/
+* classes/res-cache/amnesty-panic-button/
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/icon.png
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/next.png
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/plus.png
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/save.png
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/socialperson.png
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/wizard_active.png
+* classes/res-cache/amnesty-panic-button/drawable-hdpi/wizard_inactive.png
+* classes/res-cache/amnesty-panic-button/drawable-ldpi/
+* classes/res-cache/amnesty-panic-button/drawable-ldpi/icon.png
+* classes/res-cache/amnesty-panic-button/drawable-mdpi/
+* classes/res-cache/amnesty-panic-button/drawable-mdpi/icon.png
+* docs/
+* docs/BUILD.md
+* docs/DEVELOPMENT.md
+* docs/SECURITY.md
+* docs/setup_images/
+* docs/setup_images/1.png
+* docs/setup_images/2.png
+* docs/setup_images/3.png
+* docs/setup_images/4.png
+* docs/setup_images/5.png
+* docs/setup_images/6.png
+* docs/setup_images/7.png
+* docs/setup_images/8.png
+* docs/setup_images/9.png
+* docs/setup_images/a.1.png
+* docs/setup_images/a.2.png
+* docs/setup_images/a.3.png
+* docs/setup_images/a.4.png
+* features/
+* features/1_wizard.feature
+* features/2_wizard_contacts.feature
+* features/3_wizard_message.feature
+* features/4_wizard_pin.feature
+* features/5_wizard_hardware_alarm.feature
+* features/6_wizard_complete.feature
+* features/7_no_connection_tests.feature
+* features/8_disabling_gps.feature
+* features/README.md
+* features/step_definitions/
+* features/step_definitions/calabash_steps.rb
+* features/step_definitions/custom_steps.rb
+* features/support/
+* features/support/app_installation_hooks.rb
+* features/support/app_life_cycle_hooks.rb
+* features/support/device.rb
+* features/support/env.rb
+* features/support/hooks.rb
+* features/support/more/
+* features/support/more/clikingoncalculation.py
+* features/support/more/gpsmonkey.py
+* features/support/more/longpress.py
+* features/support/more/presspowr5times.py
+* features/support/more/unlockscreen.py
+* features/x_gps_settings.feature
+* features/x_settings.feature
+* features/x_sms_settings.feature
+* lib/
+* lib/android/
+* lib/android/support-v4/
+* lib/android/support-v4/r12/
+* lib/android/support-v4/r12/support-v4-r12.jar
+* pom.xml
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/crashlytics.jar => app/libs/crashlytics.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
